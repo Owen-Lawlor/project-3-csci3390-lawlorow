@@ -1,10 +1,10 @@
 
 1.
-    Graph File               MIS File           Is an MIS?
-line_100_edges.csv  line_100_MIS_test_1.csv         Yes
-line_100_edges.csv	line_100_MIS_test_2.csv         No 
-twitter_10000_edges.csv	twitter_10000_MIS_test_1.csv	Yes
-twitter_10000_edges.csv	twitter_10000_MIS_test_2.csv    Yes
+    Graph File               MIS File           Is an MIS? :
+line_100_edges.csv line_100_MIS_test_1.csv         Yes     ;
+line_100_edges.csv 	line_100_MIS_test_2.csv         No      ;
+twitter_10000_edges.csv 	twitter_10000_MIS_test_1.csv	Yes     ;
+twitter_10000_edges.csv	twitter_10000_MIS_test_2.csv    Yes     ;
 
 2. 
     small_edges.csv: Number of Iterations = 1; Luby's Algorithm completed in 6s;
